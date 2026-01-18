@@ -22,7 +22,7 @@ Data Analysis · NLP · Sentiment Analysis · Similarity Metrics · Data Visuali
 
 ### Road Segmentation from Aerial Imagery (U-Net Ensembles)
 📄 **Project report (PDF):**  
-[Open report](./Machine%20Learning%20--%20Road%20Segmentation.pdf)
+[Open report](./road-segmentation-unet-report.pdf)
 
 Machine learning project comparing classical and deep learning approaches for semantic road segmentation in aerial imagery.  
 The study evaluates a Random Forest baseline, a custom CNN, and a deep learning ensemble combining U-Net++ (ResNet34 encoder) and U-Net (EfficientNet-B3 encoder), using rigorous validation and segmentation-specific metrics.
