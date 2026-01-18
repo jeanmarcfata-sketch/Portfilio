@@ -1,8 +1,7 @@
-# Portfolio — Jean Fata
+# Portfolio — Jean Marc P. Fata
 
 This repository serves as a central portfolio of my projects in applied data analysis, machine learning, and computational social science.
 
----
 
 ## Featured Project
 
